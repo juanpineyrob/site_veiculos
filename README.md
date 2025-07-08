@@ -2,6 +2,13 @@
 
 Um sistema completo para gerenciamento e oferta de veículos desenvolvido em PHP com interface moderna e responsiva.
 
+## 🎥 Demo
+
+Assista ao vídeo demonstrativo do sistema:
+[![Demo do Sistema de Veículos](https://img.youtube.com/vi/ny-BWNbFLQM/0.jpg)](https://youtu.be/ny-BWNbFLQM)
+
+**Link direto**: https://youtu.be/ny-BWNbFLQM
+
 ## 🚗 Funcionalidades
 
 ### Para Visitantes
